@@ -7,7 +7,7 @@ It use https://github.com/RIPE-NCC/whois/wiki/WHOIS-REST-API under the wood.
 Installation
 ------------
 ```
-$ npm install ripe-extract
+$ npm install -g ripe-extract
 ```
 
 Usage
