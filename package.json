@@ -1,0 +1,29 @@
+{
+  "name": "ripe-extract",
+  "version": "1.0.0",
+  "description": "Extract data from RIPE database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eviltik/ripe-extract.git"
+  },
+  "keywords": [
+    "ripe"
+  ],
+  "author": "eviltik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eviltik/ripe-extract/issues"
+  },
+  "homepage": "https://github.com/eviltik/ripe-extract#readme",
+  "dependencies": {
+    "commander": "2.11.0",
+    "netmask": "1.0.6",
+    "rangecalc": "1.3.1",
+    "request": "2.83.0",
+    "sanic.js": "0.0.4"
+  }
+}
