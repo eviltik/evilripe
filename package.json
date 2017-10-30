@@ -14,7 +14,10 @@
     "url": "git+https://github.com/eviltik/ripe-extract.git"
   },
   "keywords": [
-    "ripe"
+    "ripe",
+    "cidr",
+    "ip",
+    "ipv4"
   ],
   "author": "eviltik",
   "license": "MIT",
