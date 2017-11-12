@@ -1,17 +1,17 @@
 {
-  "name": "ripe-extract",
-  "version": "1.0.5",
+  "name": "evilripe",
+  "version": "1.0.6",
   "description": "Extract data from RIPE database",
   "main": "index.js",
   "bin": {
-    "ripe-extract": "./bin/ripe-extract.js"
+    "ripe-extract": "./bin/evilripe.js"
   },
   "scripts": {
     "test": "node node_modules/tap/bin/run.js test/*"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eviltik/ripe-extract.git"
+    "url": "git+https://github.com/eviltik/evilripe.git"
   },
   "keywords": [
     "ripe",
@@ -22,9 +22,9 @@
   "author": "eviltik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eviltik/ripe-extract/issues"
+    "url": "https://github.com/eviltik/evilripe/issues"
   },
-  "homepage": "https://github.com/eviltik/ripe-extract#readme",
+  "homepage": "https://github.com/eviltik/evilripe#readme",
   "dependencies": {
     "commander": "2.11.0",
     "netmask": "1.0.6",
