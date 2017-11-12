@@ -1,6 +1,6 @@
 {
   "name": "evilripe",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Extract data from RIPE database",
   "main": "index.js",
   "bin": {

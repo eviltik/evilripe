@@ -1,7 +1,7 @@
 # ripe-extract
-[![Build Status](https://travis-ci.org/eviltik/ripe-extract.svg?branch=master)](https://travis-ci.org/eviltik/ripe-extract)
+[![Build Status](https://travis-ci.org/eviltik/evilripe.svg?branch=master)](https://travis-ci.org/eviltik/evilripe)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-[![Dependencies](https://david-dm.org/eviltik/ripe-extract.svg)](https://david-dm.org/eviltik/ripe-extract)
+[![Dependencies](https://david-dm.org/eviltik/evilripe.svg)](https://david-dm.org/eviltik/evilripe)
 
 Extract all CIDR Ranges for the Organization you want.
 
