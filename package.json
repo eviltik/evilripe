@@ -1,13 +1,13 @@
 {
   "name": "ripe-extract",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Extract data from RIPE database",
   "main": "index.js",
   "bin": {
     "ripe-extract": "./bin/ripe-extract.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node node_modules/tap/bin/run.js test/*"
   },
   "repository": {
     "type": "git",
@@ -31,5 +31,8 @@
     "rangecalc": "1.3.1",
     "request": "2.83.0",
     "sanic.js": "0.0.4"
+  },
+  "devDependencies": {
+    "tap": "10.7.3"
   }
 }
